@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sbt: dev.zio:zio_2.13:1.0.0-RC10-1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/dev.zio/zio_2.13/jars/zio_2.13-1.0.0-RC10-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <LIBRARY_FILE />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/dev.zio/zio_2.13/srcs/zio_2.13-1.0.0-RC10-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
